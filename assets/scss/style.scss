@@ -1,0 +1,29 @@
+$bg_color: #ffffff;
+
+body {
+    background: $bg_color;
+    color: #333333;
+    font-family: sans-serif;
+}
+
+header {
+    margin: 2em 0;
+}
+
+h1 {
+    color: #333333;
+    font-size: 1.5em;
+}
+
+.container {
+    max-width: 800px;
+}
+
+input, select {
+    max-width: 20em;
+}
+
+.validation-errors {
+    margin: 0.5em 0;
+    padding-left: 1em;
+}

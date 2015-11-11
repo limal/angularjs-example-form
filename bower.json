@@ -1,0 +1,19 @@
+{
+  "name": "testform",
+  "dependencies": {
+    "angularjs": "latest",
+    "angular-route": "latest"
+  },
+  "version": "0.0.0",
+  "authors": [
+    "Written for Abi Shawcross <abi.shawcross@korusgroup.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
